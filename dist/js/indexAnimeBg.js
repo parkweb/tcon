@@ -1,0 +1,1 @@
+// indexAnimeBg.js
